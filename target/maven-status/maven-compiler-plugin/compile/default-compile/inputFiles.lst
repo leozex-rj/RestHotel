@@ -1,0 +1,14 @@
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\controller\Application.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\entity\partner\PricePartnerRequest.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\entity\partner\HotelPartnerRequest.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\businessRules\wrapper\PriceWrapper.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\businessRules\wrapper\HotelWrapper.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\businessRules\errors\ErrorsMessage.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\entity\HotelResponse.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\service\partner\HotelServicePartnerRequest.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\controller\HotelController.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\entity\partner\RoomPartnerRequest.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\entity\RoomResponse.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\utils\DateConversions.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\businessRules\wrapper\RoomWrapper.java
+C:\Users\Leo\Desktop\Rest_Hoteis_Service_CVC-master\src\main\java\br\com\cvc\entity\PriceDetailResponse.java

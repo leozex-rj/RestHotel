@@ -1,0 +1,14 @@
+br\com\cvc\entity\partner\RoomPartnerRequest.class
+br\com\cvc\service\partner\HotelServicePartnerRequest.class
+br\com\cvc\businessRules\wrapper\RoomWrapper.class
+br\com\cvc\businessRules\wrapper\PriceWrapper.class
+br\com\cvc\entity\partner\HotelPartnerRequest.class
+br\com\cvc\entity\HotelResponse.class
+br\com\cvc\entity\partner\PricePartnerRequest.class
+br\com\cvc\utils\DateConversions.class
+br\com\cvc\businessRules\wrapper\HotelWrapper.class
+br\com\cvc\controller\Application.class
+br\com\cvc\controller\HotelController.class
+br\com\cvc\businessRules\errors\ErrorsMessage.class
+br\com\cvc\entity\RoomResponse.class
+br\com\cvc\entity\PriceDetailResponse.class
